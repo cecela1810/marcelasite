@@ -1,0 +1,17 @@
+<style>
+ul {
+    background-color: black;
+    color: white;
+}
+
+ol {
+    background-color: rgb(185, 121, 121);
+    color: white;
+}
+
+
+li {
+font-size: 60px;
+gap: 30px;
+}
+
